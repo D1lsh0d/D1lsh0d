@@ -37,7 +37,7 @@ I mostly code in C#:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Contact (click on badge)
-![Gmail](https://img.shields.io/badge/my%20gmail-red?style=for-the-badge&color=red&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Ffs%3D1%26to%3Ddilshod.akk2%40gmail.com%26tf%3Dcm)
+![Static Badge](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&link=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%3Ffs%3D1%26to%3Ddilshod.akk2%40gmail.com%26tf%3Dcm)
 ![Telegram](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&color=blue&link=https%3A%2F%2Ft.me%2FtheLastPahlavan)
 
 
