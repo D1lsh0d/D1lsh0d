@@ -1,7 +1,7 @@
 # Hi there, I'm Dilshod👋
 I mostly code in C#:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D1lsh0d&layout=compact&hide=css,html,javascript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D1lsh0d&layout=compact&hide=css,html)
 
 ## Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
